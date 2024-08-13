@@ -1,4 +1,15 @@
-hello everyone
-how are you all?
-we are fine, how are you?
-I am fine as well, now lets start the process of git bash
+gitinit
+it is used to initialize the git repository
+gitstatus 
+gitadd.
+used to add file in staging area
+git commit -m "message'
+used to make version of the file
+ git config --global user.email "sairajshind60@gmail.com"
+set the user
+git config --global user.name "Your Name"
+to set author name
+ git log
+check the logs 
+ git push -u orgin master
+to push on github
